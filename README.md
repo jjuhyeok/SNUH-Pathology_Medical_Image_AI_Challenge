@@ -4,7 +4,7 @@
 
 병리영상과 임상정보를 활용한 흑색종 재발 예측 Task
 
-<img width="100%" src="https://github.com/jjuhyeok/LG-Demand_Forecasting/assets/49608953/9eab431a-5110-4d7d-9857-b60c2a2bfd0b"/>
+<img width="100%" src="https://github.com/user-attachments/assets/3880ec15-63da-4c30-a0bf-3a206bf35c48"/>
 
 
 
